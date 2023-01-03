@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BLimaM4I/robofriends.git/static/css/main.1601495a.css",
+    "main.js": "/BLimaM4I/robofriends.git/static/js/main.6e6af5b5.js",
+    "static/media/SEGA.woff": "/BLimaM4I/robofriends.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/BLimaM4I/robofriends.git/index.html",
+    "main.1601495a.css.map": "/BLimaM4I/robofriends.git/static/css/main.1601495a.css.map",
+    "main.6e6af5b5.js.map": "/BLimaM4I/robofriends.git/static/js/main.6e6af5b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1601495a.css",
+    "static/js/main.6e6af5b5.js"
+  ]
+}
